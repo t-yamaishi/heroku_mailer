@@ -58,3 +58,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rexml'
+
+gem 'net-smtp'
+gem 'net-imap'
+gem 'net-pop'
